@@ -20,7 +20,7 @@ import one.digitalinnovation.gof.service.ClienteService;
  * interface simples e coesa (API REST).
  */
 @RestController
-@RequestMapping("clientes")
+@RequestMapping("/api/clientes")
 public class ClienteRestController {
 
 	@Autowired
