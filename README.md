@@ -22,6 +22,10 @@ Project implementation
 
 * **Ricardo Muraoka** - *lombok, and a few designed patterns on designPatterns Package* - [Ricardo Muraoka](https://www.linkedin.com/in/ricardo-muraoka/)
 
+## 📝 Next Steps
+
+- ✅ Added lombok
+- ❌ Add DTO (Data Transfer Objects) Design pattern 
 
 ## 📄 License
 
