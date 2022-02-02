@@ -9,7 +9,7 @@ Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Pad
 production-grade Spring based Applications that you can "just run".
 * [OpenAPI](https://swagger.io/specification/) -  A standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 * [Maven](https://maven.apache.org/) - Dependecies manager
-* [Lombok](https://projectlombok.org/) - A java library that spices up java.
+* [Lombok](https://projectlombok.org/) - A java library that spices up java. 
 
 
 ## ✒️ Authors
